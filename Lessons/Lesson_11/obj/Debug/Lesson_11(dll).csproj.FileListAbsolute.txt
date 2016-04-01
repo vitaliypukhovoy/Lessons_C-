@@ -1,0 +1,5 @@
+C:\vv\Project\Lessons\Lesson_11\bin\Debug\Lesson_11.dll
+C:\vv\Project\Lessons\Lesson_11\bin\Debug\Lesson_11.pdb
+C:\vv\Project\Lessons\Lesson_11\obj\Debug\Lesson_11(dll).csprojResolveAssemblyReference.cache
+C:\vv\Project\Lessons\Lesson_11\obj\Debug\Lesson_11.dll
+C:\vv\Project\Lessons\Lesson_11\obj\Debug\Lesson_11.pdb

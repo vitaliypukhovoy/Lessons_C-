@@ -1,0 +1,28 @@
+﻿Why should you change what you are doing today if it works? The answer 
+is that you can be better. You change tools or languages because you can be 
+more productive. You don’t realize the expected gains if you don’t change 
+your habits. This is harder when the new language, C#, has so much in 
+common with a familiar language, such as C++ or Java. C# is another curly 
+braced language, making it easy to fall into the same idioms you used in 
+other languages in the same family. That will prevent you from getting the 
+most out of C#. The C# language has evolved since its ﬁrst commercial 
+release in 2001. It’s now much farther removed from C++ or Java than it 
+was in its original release. If you are approaching C# from another lan-
+guage, you need to learn the C# idioms so that the language works with 
+you, rather than against you. This chapter discusses the habits that you 
+should change—and what you should do instead. Properties have always been ﬁrst-class citizens in the C# language. Several 
+enhancements since the 1.0 release of the C# language have made properties 
+even more expressive. You can specify different access restrictions on the 
+getter and setter. Implicit properties minimize the hand typing for proper-
+ties instead of data members. If you’re still creating public variables in your 
+types, stop now. If you’re still creating get and set methods by hand, stop 
+now. Properties let you expose data members as part of your public inter-
+face and still provide the encapsulation you want in an object-oriented 
+environment. Properties are language elements that are accessed as though 
+they are data members, but they are implemented as methods.
+ Some members of a type really are best represented as data: the name of a 
+customer, the x,y location of a point, or last year’s revenue. Properties 
+enable you to create an interface that acts like data access but still has all 
+the beneﬁts of a method. Client code accesses properties as though they are 
+accessing public ﬁelds. But the actual implementation uses methods, in 
+which you deﬁne the behavior of property accessors.

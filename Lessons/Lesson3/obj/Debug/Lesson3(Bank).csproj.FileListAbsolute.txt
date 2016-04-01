@@ -1,0 +1,5 @@
+C:\vv\Project\Lessons\Lesson3\bin\Debug\Lesson3.exe.config
+C:\vv\Project\Lessons\Lesson3\bin\Debug\Lesson3.exe
+C:\vv\Project\Lessons\Lesson3\bin\Debug\Lesson3.pdb
+C:\vv\Project\Lessons\Lesson3\obj\Debug\Lesson3.exe
+C:\vv\Project\Lessons\Lesson3\obj\Debug\Lesson3.pdb

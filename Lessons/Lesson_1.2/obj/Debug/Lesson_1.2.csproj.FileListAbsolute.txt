@@ -1,0 +1,5 @@
+C:\vv\Project\Lesson_1\Lesson_1.2\bin\Debug\Lesson_1.2.exe.config
+C:\vv\Project\Lesson_1\Lesson_1.2\bin\Debug\Lesson_1.2.exe
+C:\vv\Project\Lesson_1\Lesson_1.2\bin\Debug\Lesson_1.2.pdb
+C:\vv\Project\Lesson_1\Lesson_1.2\obj\Debug\Lesson_1.2.exe
+C:\vv\Project\Lesson_1\Lesson_1.2\obj\Debug\Lesson_1.2.pdb

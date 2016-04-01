@@ -1,0 +1,16 @@
+﻿Properties have always been ﬁrst-class citizens in the C# language. Several 
+enhancements since the 1.0 release of the C# language have made properties 
+even more expressive. You can specify different access restrictions on the 
+getter and setter. Implicit properties minimize the hand typing for proper-
+ties instead of data members. If you’re still creating public variables in your 
+types, stop now. If you’re still creating get and set methods by hand, stop 
+now. Properties let you expose data members as part of your public inter-
+face and still provide the encapsulation you want in an object-oriented 
+environment. Properties are language elements that are accessed as though 
+they are data members, but they are implemented as methods.
+Some members of a type really are best represented as data: the name of a 
+customer, the x,y location of a point, or last year’s revenue. Properties 
+enable you to create an interface that acts like data access but still has all 
+the beneﬁts of a method. Client code accesses properties as though they are 
+accessing public ﬁelds. But the actual implementation uses methods, in 
+which you deﬁne the behavior of property accessors.

@@ -1,0 +1,8 @@
+C:\vv\Project\Lesson_1\lesson_1.3\bin\Debug\lesson_1.3.exe.config
+C:\vv\Project\Lesson_1\lesson_1.3\obj\Debug\lesson_1.3.csprojResolveAssemblyReference.cache
+C:\vv\Project\Lesson_1\lesson_1.3\bin\Debug\lesson_1.3.exe
+C:\vv\Project\Lesson_1\lesson_1.3\bin\Debug\lesson_1.3.pdb
+C:\vv\Project\Lesson_1\lesson_1.3\bin\Debug\Lesson_1.1.dll
+C:\vv\Project\Lesson_1\lesson_1.3\bin\Debug\Lesson_1.1.pdb
+C:\vv\Project\Lesson_1\lesson_1.3\obj\Debug\lesson_1.3.exe
+C:\vv\Project\Lesson_1\lesson_1.3\obj\Debug\lesson_1.3.pdb
