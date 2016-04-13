@@ -1,0 +1,11 @@
+C:\vv\Project\Lessons\Lesson4\bin\Debug\Lesson4.dll
+C:\vv\Project\Lessons\Lesson4\bin\Debug\Lesson4.pdb
+C:\vv\Project\Lessons\Lesson4\bin\Debug\nunit.core.dll
+C:\vv\Project\Lessons\Lesson4\bin\Debug\nunit.core.interfaces.dll
+C:\vv\Project\Lessons\Lesson4\bin\Debug\nunit.framework.dll
+C:\vv\Project\Lessons\Lesson4\bin\Debug\nunit.util.dll
+C:\vv\Project\Lessons\Lesson4\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+C:\vv\Project\Lessons\Lesson4\bin\Debug\nunit.framework.xml
+C:\vv\Project\Lessons\Lesson4\obj\Debug\Lesson4.dll
+C:\vv\Project\Lessons\Lesson4\obj\Debug\Lesson4.pdb
+C:\vv\Project\Lessons\Lesson4\obj\Debug\Lesson4.csprojResolveAssemblyReference.cache

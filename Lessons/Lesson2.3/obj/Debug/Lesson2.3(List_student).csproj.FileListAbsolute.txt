@@ -1,4 +1,3 @@
-C:\vv\Project\Lessons\Lesson2.3\bin\Debug\Lesson2.3.exe.config
 C:\vv\Project\Lessons\Lesson2.3\bin\Debug\Lesson2.3.exe
 C:\vv\Project\Lessons\Lesson2.3\bin\Debug\Lesson2.3.pdb
 C:\vv\Project\Lessons\Lesson2.3\obj\Debug\Lesson2.3.exe

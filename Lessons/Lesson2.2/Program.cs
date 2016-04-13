@@ -4,6 +4,7 @@ using System.Collections;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace Lesson2._2
 {
@@ -36,15 +37,18 @@ namespace Lesson2._2
             students.Sort(sort1);
            // students.Sort(sort2);
            // students.Sort(sort3);
-
-            Console.WriteLine("|{0,8:G}|{1,10:G}|{2,13:F0}|{3,8:F0}|{4,10:F0}|{5,3:F0}|{6,3:F0}|{7,3:F0}|{8,3:F0}|{9,3:F0}|{10,3:F3}|", "Имя", "Фамилия", "Дата рождения", "Курс", "Номер студ", "1", "2", "3", "4", "5", "Итог");
-
-            foreach (var sdn in students)
+            string head = String.Format(CultureInfo.CurrentCulture, "|{0,8:G}|{1,10:G}|{2,13:F0}|{3,8:F0}|{4,10:F0}|{5,3:F0}|{6,3:F0}|{7,3:F0}|{8,3:F0}|{9,3:F0}|{10,3:F3}|", "Имя", "Фамилия", "Дата рождения", "Курс", "Номер студ", "1", "2", "3", "4", "5", "Итог");
+            Console.WriteLine(head);
+            Console.WriteLine(new string('-',75));
+            foreach (var s in students)
             {
-
-                string str = string.Format("|{0,8:G}|{1,10:G}|{2,13:F0}|{3,8:F0}|{4,10:F0}|{5,3:F0}|{6,3:F0}|{7,3:F0}|{8,3:F0}|{9,3:F0}|{10,3:F3}|", sdn.FirstName, sdn.LastName, sdn.DataBorn, sdn.Course, sdn.NumberStyudent, sdn.Average.TryIndex<double>(0), sdn.Average.TryIndex<double>(1), sdn.Average.TryIndex<double>(2), sdn.Average.TryIndex<double>(3), sdn.Average.TryIndex<double>(4), sdn.Summary);
+                string databorn = s.DataBorn.Year + "." + s.DataBorn.Month + "." + s.DataBorn.Day;
+                object[] arg = { s.FirstName, s.LastName, databorn, s.Course, s.NumberStyudent, s.Average.TryIndex<double>(0), s.Average.TryIndex<double>(1), s.Average.TryIndex<double>(2), s.Average.TryIndex<double>(3), s.Average.TryIndex<double>(4), s.Summary };
+                string str = string.Format(CultureInfo.CurrentCulture, "|{0,8:G}|{1,10:G}|{2,13:F0}|{3,8:F0}|{4,10:F0}|{5,3:F0}|{6,3:F0}|{7,3:F0}|{8,3:F0}|{9,3:F0}|{10,3:F3}|", arg);
                 Console.WriteLine(str);
             }
+     //       Console.WriteLine(new string('-', 80));
+            Console.ReadKey();
         }
     }
     public class CompareFirstName : IComparer<Student> //,IComparer, //We can implement  IComparer too.    
@@ -74,8 +78,7 @@ namespace Lesson2._2
                 return -1;
             else
                 return 0;                                    
-        }
-        
+        }        
     }
 
     public class CompareSummaryAverage : IComparer<Student>       
