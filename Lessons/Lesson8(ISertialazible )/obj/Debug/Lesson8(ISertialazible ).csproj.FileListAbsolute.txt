@@ -1,0 +1,6 @@
+C:\vv\Project\Lessons\Lesson8(ISertialazible )\bin\Debug\Lesson8(ISertialazible ).exe.config
+C:\vv\Project\Lessons\Lesson8(ISertialazible )\bin\Debug\Lesson8(ISertialazible ).exe
+C:\vv\Project\Lessons\Lesson8(ISertialazible )\bin\Debug\Lesson8(ISertialazible ).pdb
+C:\vv\Project\Lessons\Lesson8(ISertialazible )\obj\Debug\Lesson8(ISertialazible ).csprojResolveAssemblyReference.cache
+C:\vv\Project\Lessons\Lesson8(ISertialazible )\obj\Debug\Lesson8(ISertialazible ).exe
+C:\vv\Project\Lessons\Lesson8(ISertialazible )\obj\Debug\Lesson8(ISertialazible ).pdb

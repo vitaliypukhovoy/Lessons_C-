@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9(dll_ADO_EF)", "Less
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8(Xml_ISertialazible)", "Lesson8(ISertialazible)\Lesson8(Xml_ISertialazible).csproj", "{0DF8FB1C-ABB6-423C-84F3-3B6B1D322EDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8(ISertialazible )", "Lesson8(ISertialazible )\Lesson8(ISertialazible ).csproj", "{3810C0D4-2298-4190-80C3-678D96BA421D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{0DF8FB1C-ABB6-423C-84F3-3B6B1D322EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DF8FB1C-ABB6-423C-84F3-3B6B1D322EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DF8FB1C-ABB6-423C-84F3-3B6B1D322EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3810C0D4-2298-4190-80C3-678D96BA421D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3810C0D4-2298-4190-80C3-678D96BA421D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3810C0D4-2298-4190-80C3-678D96BA421D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3810C0D4-2298-4190-80C3-678D96BA421D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,8 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 using System.IO;
+using System.Globalization;
 
-namespace Serialization
+namespace Xml_ISertialazible
 {
    [Serializable]
     public class Client
@@ -45,16 +46,23 @@ namespace Serialization
                 {
                     Client [] newClients = (Client[])formatter.Deserialize(fs);
 
-
+                    Console.WindowWidth = 115;
+                    Console.WriteLine(new string('-',110));
                     foreach(var item in newClients)
                     {
-                    Console.WriteLine("Name: {0} {1} --- Cart: {2}",item.FirstName, item.LastName, item.NumberCart);
+                        string _databorn = String.Format("{0:D2}.{1:D2}.{2:D4}", item.DataBorn.Day, item.DataBorn.Month, item.DataBorn.Year);
+                        string _datacart = String.Format("{0:D2}/{1:D4}", item.DataCart.Month, item.DataCart.Year);
+                        string _numbercart = String.Format("{0:####-####-####-####}", item.NumberCart);
+
+                        object[] arg = { item.FirstName, item.LastName, _databorn, item.NumberPhone, _numbercart, _datacart, item.NumberPassport, item.EMail };
+                        string str = String.Format(CultureInfo.CurrentCulture, "|{0,12:G}|{1,12:G}|{2,10:F0}|{3,12:F0}|{4,18:F0}|{5,10:G}|{6,8:G}|{7,10:G}", arg);
+                        Console.WriteLine(str);
                     }
                 }
-                      Console.WriteLine("The object have deserialized");
-              
 
-                Console.ReadLine();
+                      Console.WriteLine(new string('-', 110));                 
+                      Console.WriteLine("The object have deserialized");              
+                      Console.ReadLine();
             }
         }
 }
