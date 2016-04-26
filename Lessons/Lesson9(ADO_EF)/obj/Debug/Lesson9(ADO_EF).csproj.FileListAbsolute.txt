@@ -1,0 +1,12 @@
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\App_Data\CarDB.mdf
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\App_Data\CarDB_log.ldf
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\Lesson9(ADO_EF).exe.config
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\Lesson9(ADO_EF).exe
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\Lesson9(ADO_EF).pdb
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\EntityFramework.dll
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\EntityFramework.SqlServer.dll
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\EntityFramework.xml
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\EntityFramework.SqlServer.xml
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\obj\Debug\Lesson9(ADO_EF).exe
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\obj\Debug\Lesson9(ADO_EF).pdb
+C:\vv\Project\Lessons\Lesson9(ADO_EF)\obj\Debug\Lesson9(ADO_EF).csprojResolveAssemblyReference.cache

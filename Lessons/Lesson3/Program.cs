@@ -90,7 +90,7 @@ namespace Lesson3
          }  
     }
 
-    public class CompareFirstName : IComparer<Client> //,IComparer, //We can implement  IComparer too.    
+    public class CompareFirstName : IComparer<Client> //:IComparer, //We can implement  IComparer too.    
     {
         public int Compare(Client a, Client b)
         {

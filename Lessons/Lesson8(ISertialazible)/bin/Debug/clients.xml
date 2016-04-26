@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <FirstName>Sergey</FirstName>
+    <LastName>Pavlichenko</LastName>
+    <DataBorn>1991-02-24T00:00:00</DataBorn>
+    <NumberPhone>380505600789</NumberPhone>
+    <EMail>Ivanov@gmail.com</EMail>
+    <NumberPassport>AA362739</NumberPassport>
+    <DataCart>2017-02-01T00:00:00</DataCart>
+    <NumberCart>1234356235626372</NumberCart>
+  </Client>
+  <Client>
+    <FirstName>Aleksander</FirstName>
+    <LastName>Petrenko</LastName>
+    <DataBorn>1994-05-27T00:00:00</DataBorn>
+    <NumberPhone>380505667689</NumberPhone>
+    <EMail>Petrov@gmail.com</EMail>
+    <NumberPassport>BB479209</NumberPassport>
+    <DataCart>2018-06-01T00:00:00</DataCart>
+    <NumberCart>7373927382038263</NumberCart>
+  </Client>
+  <Client>
+    <FirstName>Pavlo</FirstName>
+    <LastName>Yarmolenko</LastName>
+    <DataBorn>1992-07-29T00:00:00</DataBorn>
+    <NumberPhone>380505167689</NumberPhone>
+    <EMail>Petrov@gmail.com</EMail>
+    <NumberPassport>CC783923</NumberPassport>
+    <DataCart>2019-05-01T00:00:00</DataCart>
+    <NumberCart>7493027384937283</NumberCart>
+  </Client>
+</ArrayOfClient>
