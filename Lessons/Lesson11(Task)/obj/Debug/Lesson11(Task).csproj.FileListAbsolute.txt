@@ -3,3 +3,6 @@ C:\vv\Project\Lessons\Lesson11(Task)\bin\Debug\Lesson11(Task).exe
 C:\vv\Project\Lessons\Lesson11(Task)\bin\Debug\Lesson11(Task).pdb
 C:\vv\Project\Lessons\Lesson11(Task)\obj\Debug\Lesson11(Task).exe
 C:\vv\Project\Lessons\Lesson11(Task)\obj\Debug\Lesson11(Task).pdb
+C:\Git\Lesson\Lessons\Lesson11(Task)\bin\Debug\Lesson11(Task).exe.config
+C:\Git\Lesson\Lessons\Lesson11(Task)\obj\Debug\Lesson11(Task).exe
+C:\Git\Lesson\Lessons\Lesson11(Task)\obj\Debug\Lesson11(Task).pdb

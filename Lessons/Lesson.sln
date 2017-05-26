@@ -47,7 +47,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson10(linq_OrderBy)", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9(ADO_EF)", "Lesson9(ADO_EF)\Lesson9(ADO_EF).csproj", "{231A2D9B-AD07-49B7-A820-FC56A713D398}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9(dll_ADO_EF)", "Lesson9(dll_ADO_EF)\Lesson9(dll_ADO_EF).csproj", "{892A35FE-8C72-4F1C-BF0A-92DE5AF5D93A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson9_dll_ADO_EF", "Lesson9_dll_ADO_EF\Lesson9_dll_ADO_EF.csproj", "{892A35FE-8C72-4F1C-BF0A-92DE5AF5D93A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson8(Xml_ISertialazible)", "Lesson8(ISertialazible)\Lesson8(Xml_ISertialazible).csproj", "{0DF8FB1C-ABB6-423C-84F3-3B6B1D322EDF}"
 EndProject

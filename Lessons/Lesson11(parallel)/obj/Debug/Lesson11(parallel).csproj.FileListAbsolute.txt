@@ -3,3 +3,6 @@ C:\vv\Project\Lessons\Lesson11(parallel)\bin\Debug\Lesson11(parallel).exe
 C:\vv\Project\Lessons\Lesson11(parallel)\bin\Debug\Lesson11(parallel).pdb
 C:\vv\Project\Lessons\Lesson11(parallel)\obj\Debug\Lesson11(parallel).exe
 C:\vv\Project\Lessons\Lesson11(parallel)\obj\Debug\Lesson11(parallel).pdb
+C:\Git\Lesson\Lessons\Lesson11(parallel)\bin\Debug\Lesson11(parallel).exe.config
+C:\Git\Lesson\Lessons\Lesson11(parallel)\obj\Debug\Lesson11(parallel).exe
+C:\Git\Lesson\Lessons\Lesson11(parallel)\obj\Debug\Lesson11(parallel).pdb

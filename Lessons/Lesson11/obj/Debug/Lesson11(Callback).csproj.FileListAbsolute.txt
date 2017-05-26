@@ -3,3 +3,6 @@ C:\vv\Project\Lessons\Lesson11\bin\Debug\Lesson11.exe
 C:\vv\Project\Lessons\Lesson11\bin\Debug\Lesson11.pdb
 C:\vv\Project\Lessons\Lesson11\obj\Debug\Lesson11.exe
 C:\vv\Project\Lessons\Lesson11\obj\Debug\Lesson11.pdb
+C:\Git\Lesson\Lessons\Lesson11\bin\Debug\Lesson11.exe.config
+C:\Git\Lesson\Lessons\Lesson11\obj\Debug\Lesson11.exe
+C:\Git\Lesson\Lessons\Lesson11\obj\Debug\Lesson11.pdb

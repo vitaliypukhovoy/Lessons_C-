@@ -3,3 +3,6 @@ C:\vv\Project\Lessons\Lesson10(linq_query_expression)\bin\Debug\Lesson10(linq_qu
 C:\vv\Project\Lessons\Lesson10(linq_query_expression)\bin\Debug\Lesson10(linq_query_expression).pdb
 C:\vv\Project\Lessons\Lesson10(linq_query_expression)\obj\Debug\Lesson10(linq_query_expression).exe
 C:\vv\Project\Lessons\Lesson10(linq_query_expression)\obj\Debug\Lesson10(linq_query_expression).pdb
+C:\Git\Lesson\Lessons\Lesson10(linq_query_expression)\bin\Debug\Lesson10(linq_query_expression).exe.config
+C:\Git\Lesson\Lessons\Lesson10(linq_query_expression)\obj\Debug\Lesson10(linq_query_expression).exe
+C:\Git\Lesson\Lessons\Lesson10(linq_query_expression)\obj\Debug\Lesson10(linq_query_expression).pdb

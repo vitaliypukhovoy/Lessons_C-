@@ -3,3 +3,6 @@ C:\vv\Project\Lessons\Lesson11(Multithreading)\bin\Debug\Lesson11(Multithreading
 C:\vv\Project\Lessons\Lesson11(Multithreading)\bin\Debug\Lesson11(Multithreading).pdb
 C:\vv\Project\Lessons\Lesson11(Multithreading)\obj\Debug\Lesson11(Multithreading).exe
 C:\vv\Project\Lessons\Lesson11(Multithreading)\obj\Debug\Lesson11(Multithreading).pdb
+C:\Git\Lesson\Lessons\Lesson11(Multithreading)\bin\Debug\Lesson11(Multithreading).exe.config
+C:\Git\Lesson\Lessons\Lesson11(Multithreading)\obj\Debug\Lesson11(Multithreading).exe
+C:\Git\Lesson\Lessons\Lesson11(Multithreading)\obj\Debug\Lesson11(Multithreading).pdb

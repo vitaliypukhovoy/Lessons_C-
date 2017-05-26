@@ -10,3 +10,17 @@ C:\vv\Project\Lessons\Lesson9(ADO_EF)\bin\Debug\EntityFramework.SqlServer.xml
 C:\vv\Project\Lessons\Lesson9(ADO_EF)\obj\Debug\Lesson9(ADO_EF).exe
 C:\vv\Project\Lessons\Lesson9(ADO_EF)\obj\Debug\Lesson9(ADO_EF).pdb
 C:\vv\Project\Lessons\Lesson9(ADO_EF)\obj\Debug\Lesson9(ADO_EF).csprojResolveAssemblyReference.cache
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\obj\Debug\Lesson9(ADO_EF).csprojResolveAssemblyReference.cache
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\Lesson9(ADO_EF).exe.config
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\Lesson9(ADO_EF).exe
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\Lesson9(ADO_EF).pdb
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\EntityFramework.dll
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\Lesson9(dll_ADO_EF).dll
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\Lesson9(dll_ADO_EF).pdb
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\EntityFramework.xml
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\obj\Debug\Lesson9(ADO_EF).exe
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\obj\Debug\Lesson9(ADO_EF).pdb
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\Data\CarDB.mdf
+C:\Git\Lesson\Lessons\Lesson9(ADO_EF)\bin\Debug\Data\CarDB_log.ldf

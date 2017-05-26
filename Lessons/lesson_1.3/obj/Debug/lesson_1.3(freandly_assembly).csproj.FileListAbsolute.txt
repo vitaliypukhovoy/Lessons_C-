@@ -12,3 +12,6 @@ C:\vv\Project\Lessons\lesson_1.3\bin\Debug\lesson_1.3.pdb
 C:\vv\Project\Lessons\lesson_1.3\obj\Debug\lesson_1.3.exe
 C:\vv\Project\Lessons\lesson_1.3\obj\Debug\lesson_1.3.pdb
 C:\vv\Project\Lessons\lesson_1.3\obj\Debug\lesson_1.3(freandly_assembly).csprojResolveAssemblyReference.cache
+C:\Git\Lesson\Lessons\lesson_1.3\bin\Debug\lesson_1.3.exe.config
+C:\Git\Lesson\Lessons\lesson_1.3\obj\Debug\lesson_1.3.exe
+C:\Git\Lesson\Lessons\lesson_1.3\obj\Debug\lesson_1.3.pdb

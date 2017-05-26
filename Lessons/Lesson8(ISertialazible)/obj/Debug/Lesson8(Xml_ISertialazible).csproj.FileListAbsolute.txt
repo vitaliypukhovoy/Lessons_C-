@@ -3,3 +3,6 @@ C:\vv\Project\Lessons\Lesson8(ISertialazible)\obj\Debug\Lesson8(ISertialazible).
 C:\vv\Project\Lessons\Lesson8(ISertialazible)\obj\Debug\Lesson8(ISertialazible).pdb
 C:\vv\Project\Lessons\Lesson8(ISertialazible)\bin\Debug\Lesson8(ISertialazible).exe
 C:\vv\Project\Lessons\Lesson8(ISertialazible)\bin\Debug\Lesson8(ISertialazible).pdb
+C:\Git\Lesson\Lessons\Lesson8(ISertialazible)\bin\Debug\Lesson8(ISertialazible).exe.config
+C:\Git\Lesson\Lessons\Lesson8(ISertialazible)\obj\Debug\Lesson8(ISertialazible).exe
+C:\Git\Lesson\Lessons\Lesson8(ISertialazible)\obj\Debug\Lesson8(ISertialazible).pdb

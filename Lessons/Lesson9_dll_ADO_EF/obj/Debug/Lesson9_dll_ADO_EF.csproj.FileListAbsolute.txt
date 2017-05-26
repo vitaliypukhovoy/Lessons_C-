@@ -1,0 +1,11 @@
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\bin\Debug\Data\CarDB.mdf
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\bin\Debug\Data\CarDB_log.ldf
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\bin\Debug\Lesson9(dll_ADO_EF).dll.config
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\bin\Debug\Lesson9(dll_ADO_EF).dll
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\bin\Debug\Lesson9(dll_ADO_EF).pdb
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\bin\Debug\EntityFramework.dll
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\bin\Debug\EntityFramework.xml
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\obj\Debug\Lesson9(dll_ADO_EF).dll
+C:\Git\Lesson\Lessons\Lesson9_dll_ADO_EF\obj\Debug\Lesson9(dll_ADO_EF).pdb

@@ -3,3 +3,6 @@ C:\vv\Project\Lessons\Lesson10(linq_group_by)\bin\Debug\Lesson10(linq_group_by).
 C:\vv\Project\Lessons\Lesson10(linq_group_by)\bin\Debug\Lesson10(linq_group_by).pdb
 C:\vv\Project\Lessons\Lesson10(linq_group_by)\obj\Debug\Lesson10(linq_group_by).exe
 C:\vv\Project\Lessons\Lesson10(linq_group_by)\obj\Debug\Lesson10(linq_group_by).pdb
+C:\Git\Lesson\Lessons\Lesson10(linq_group_by)\bin\Debug\Lesson10(linq_group_by).exe.config
+C:\Git\Lesson\Lessons\Lesson10(linq_group_by)\obj\Debug\Lesson10(linq_group_by).exe
+C:\Git\Lesson\Lessons\Lesson10(linq_group_by)\obj\Debug\Lesson10(linq_group_by).pdb
